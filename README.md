@@ -1,7 +1,7 @@
 # cocomp_python
 
 ---
-COCOMP: [In clC Program](https://github.com/mdriyadkhan585/cocomp)
+COCOMP: [In C Program](https://github.com/mdriyadkhan585/cocomp)
 ---
 # Cocomp in python3 Documentation
 ---
